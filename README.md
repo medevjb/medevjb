@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋!<br>My name is Jobaed and I'm a full stack Php Laravel Developer from Dhaka, Bangladesh</h3>
+<h3 align="left">Hi 👋! My name is Jobaed <br>I'm a full stack Laravel Developer from Dhaka, Bangladesh</h3>
 
 ###
 
