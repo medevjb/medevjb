@@ -1,68 +1,160 @@
-<h3 align="left">Hi 👋! My name is Jobaed <br>I'm a Full Stack Laravel Developer from Dhaka, Bangladesh</h3>
+<div align="center">
 
-###
+# Hi 👋, I'm Jobaed
+
+### Full Stack Laravel Developer from Dhaka, Bangladesh 🇧🇩
+
+**Laravel enthusiast | Crafting clean & efficient code | Let's build together!**
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05340&center=true&vCenter=true&width=650&lines=Full+Stack+Laravel+Developer;Building+clean+%26+scalable+web+applications;PHP+%7C+Laravel+%7C+JavaScript+%7C+Tailwind+CSS"
+  alt="Typing SVG"
+/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I build modern and scalable web applications with **Laravel**
+- ⚡ I enjoy writing **clean, efficient and maintainable code**
+- 🌱 Currently improving my knowledge of **Laravel architecture, APIs and modern frontend development**
+- 💬 Ask me about **PHP, Laravel, JavaScript, MySQL and REST APIs**
+- 🤝 Open to interesting projects and collaborations
+- 📍 Based in **Dhaka, Bangladesh**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medevjb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medevjb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img
+  src="https://skillicons.dev/icons?i=php,laravel,js,html,css,tailwind,bootstrap,jquery,mysql,git,github,figma,phpstorm,vscode"
+  alt="Tech Stack"
+/>
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
+## 📊 GitHub Analytics
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+<a href="https://github.com/medevjb">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=medevjb&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="Jobaed's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/medevjb">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=medevjb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Jobaed's Top Languages"
+  />
+</a>
+
 </div>
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.instagram.com/myself___.___jobaed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/JobaedB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="medev.jobaed@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jobaed-bhuiyan-356153177" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/jobaed.bhuyian/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+<div align="center">
+
+<a href="https://github.com/medevjb">
+  <img
+    src="https://streak-stats.demolab.com?user=medevjb&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🤝 Connect With Me
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<a href="https://www.linkedin.com/in/jobaed-bhuiyan-356153177" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:medev.jobaed@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://twitter.com/JobaedB" target="_blank">
+  <img
+    src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
+</a>
+
+<a href="https://www.instagram.com/myself___.___jobaed/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+<a href="https://www.facebook.com/jobaed.bhuyian/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/medevjb/medevjb/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/medevjb/medevjb/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/medevjb/medevjb/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Clean code. Useful products. Continuous improvement.
+
+<img
+  src="https://komarev.com/ghpvc/?username=medevjb&label=Profile%20Views&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+<br><br>
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
